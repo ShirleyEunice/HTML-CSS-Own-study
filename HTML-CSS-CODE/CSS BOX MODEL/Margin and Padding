@@ -1,0 +1,14 @@
+*Margin:
+Spacing on outside of the element(HTML Tag)
+
+*Padding:
+Spacing inside the element rather than choosing width and height. Width and height adjust but
+ if content exceeds, it doesn't support to the width and height. So padding allocates and adjust
+according to the content and as well as adjust spacing between text and the border.
+Default padding on right and left(width)=6px
+Default padding on top an bottom(height)=1px
+---------------------------------------------------------------------------------------------------------
+
+CSS Box Model:
+* How much space an element make up
+* How far it is away from other elements
